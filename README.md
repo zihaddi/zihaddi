@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zihaddi
 - 👀 I’m interested in Web Developing 
-- 🌱 I’m currently learning ReactJs,NodeJs,MongoDb,ExpressJs
+- 🌱 I’m currently learning ReactJs,Laravel,NodeJs,MongoDb,ExpressJs
 - 💞️ I’m looking to collaborate on MERN Stack Development
 - 📫 How to reach me zihad.jamil2018@gmail.com
 
