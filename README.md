@@ -63,5 +63,5 @@ I am **MD. FAYSAL JAMIL ZIHAD**, a self-taught Software Developer from Banglades
 
 ## 📊 GitHub Stats
 
-![Motakabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arprinceofficial&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arprinceofficial&layout=compact&theme=radical)
