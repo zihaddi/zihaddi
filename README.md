@@ -19,7 +19,7 @@ I am **MD. FAYSAL JAMIL ZIHAD**, a self-taught Software Developer from Banglades
 
 
 
-![Github Overview](https://raw.githubusercontent.com/arprinceofficial/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ![Github Language](https://raw.githubusercontent.com/arprinceofficial/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Tech Stack
