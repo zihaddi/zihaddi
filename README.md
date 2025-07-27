@@ -9,9 +9,9 @@ Here you'll find a curated collection of my work, interests, and ways to connect
 ## 🧑‍💻 About Me
 
 - 💼 **Software Engineer** specializing in full-stack development, cloud solutions, and AI.
-- 🌎 **Location:** [Your City/Country]
-- 🎓 **Education:** [Your Degree/University]
-- 📬 **Contact:** [Your Email] | [Your Website/Portfolio]
+- 🌎 **Location:** Bhashantek, Dhaka, Bangladesh
+- 🎓 **Education: American InternationalUniversituy Bangladesj
+- 📬 **Contact: zihad.jamil2018@gmailcomm
 
 ---
 
