@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zihaddi! 🚀
+# 👋 Hi, I'm Md Faysal Jamil Zihad! 🚀
 
 Welcome to my GitHub profile!  
 I'm a passionate **developer**, **open-source enthusiast**, and lifelong learner.  
