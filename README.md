@@ -1,95 +1,92 @@
 # 👋 Hi, I'm Md Faysal Jamil Zihad! 🚀
 
-Welcome to my GitHub profile!  
-I'm a passionate **developer**, **open-source enthusiast**, and lifelong learner.  
-Here you'll find a curated collection of my work, interests, and ways to connect.
+Frontend Developer | UI/UX Enthusiast | Building Modern Web Experiences
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 **Software Engineer** specializing in frontend development, cloud solutions, and AI.
-- 🌎 **Location:** Bhashantek, Dhaka, Bangladesh
-- 🎓 **Education: American International University Bangladesh
-- 📬 **Contact: zihad.jamil2018@gmailcomm
+- 💼 Frontend Developer focused on building **responsive, scalable, and user-friendly interfaces**
+- ⚡ Specialized in **Vue.js, Nuxt, and modern JavaScript ecosystems**
+- 🎯 Passionate about **clean UI, performance optimization, and user experience**
+- 🌎 Location: Dhaka, Bangladesh  
+- 📬 Contact: zihad.jamil2018@gmail.com
 
 ---
 
-## 💡 Tech Stack
+## 🎨 What I Do (Frontend Focus)
 
+- ✨ Build pixel-perfect responsive UI
+- ⚡ Optimize performance (lazy loading, code splitting)
+- 🔐 Handle frontend authentication & state management
+- 🔄 Integrate REST APIs smoothly
+- 📱 Create mobile-first, cross-browser compatible apps
+
+---
+
+## 💡 Tech Stack (Frontend Focused)
+
+### 🚀 Core
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### ⚛️ Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### 🎨 Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zihaddi&show_icons=true&theme=github_dark" alt="Zihaddi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zihaddi&show_icons=true&theme=github_dark" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zihaddi&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zihaddi&theme=github-dark-blue" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlighted Work (Frontend)
 
-- 🥇 Contributed to top open-source projects
-- 🤝 Collaborated with global teams
-- 🚀 Built scalable apps used by thousands
-- 🎉 Speaker at tech meetups & conferences
-
----
-
-## 🌱 Current Learning
-
-- **AI/ML:** Deep Learning, NLP
-- **DevOps:** Kubernetes, CI/CD
-- **Web3:** Blockchain fundamentals
+- 🚀 Built modern dashboards with Vue/Nuxt
+- 🎨 Designed clean and user-friendly UI systems
+- ⚡ Improved page load performance and UX
+- 🔗 Integrated secure APIs with smooth frontend flow
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihaddi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zihaddi)
-[![Personal Website](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/zihaddi)  
+[Twitter](https://twitter.com/zihaddi)  
+[Portfolio](https://yourwebsite.com)
 
 ---
 
+## 🎯 Current Goal
 
-
----
-
-## 📝 Blog & Articles
-
-- [How I built my first SaaS app](https://yourblog.com/saas-app)
-- [Mastering GitHub Actions](https://yourblog.com/github-actions)
-- [AI for Everyone](https://yourblog.com/ai-for-everyone)
+- 📈 Becoming a **top-tier frontend engineer**
+- 🌍 Working with **international remote teams**
+- 🎓 Preparing for higher studies in Europe
 
 ---
 
 ## 🎨 Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## ⚡ Quick Stats
-
-- 🕒 Years of coding: **X+**
-- 🌟 Followers: **[GitHub Profile Followers](https://github.com/zihaddi?tab=followers)**
-- 🚩 Languages: **English, [Other]**
+> "Good UI is invisible. Great UX is unforgettable."
 
 ---
 
 ## 🖤 Thanks for visiting!
 
-Feel free to fork, star, or connect!  
-Let's build something amazing together. 🌟
+Let’s build beautiful, fast, and scalable web apps together 🚀
