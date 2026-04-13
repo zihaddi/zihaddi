@@ -63,13 +63,7 @@ Here you'll find a curated collection of my work, interests, and ways to connect
 
 ---
 
-## 📚 Featured Projects
 
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Awesome Project](https://github.com/zihaddi/awesome-project) | 🚀 Advanced web app for productivity | React, Node.js, MongoDB |
-| [ML Toolkit](https://github.com/zihaddi/ml-toolkit) | 🤖 A toolkit for rapid ML prototyping | Python, TensorFlow |
-| [DevOps Dashboard](https://github.com/zihaddi/devops-dashboard) | 📊 Monitor CI/CD pipelines visually | Docker, Grafana |
 
 ---
 
