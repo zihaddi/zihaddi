@@ -8,7 +8,7 @@ Here you'll find a curated collection of my work, interests, and ways to connect
 
 ## 🧑‍💻 About Me
 
-- 💼 **Software Engineer** specializing in full-stack development, cloud solutions, and AI.
+- 💼 **Software Engineer** specializing in frontend development, cloud solutions, and AI.
 - 🌎 **Location:** Bhashantek, Dhaka, Bangladesh
 - 🎓 **Education: American International University Bangladesh
 - 📬 **Contact: zihad.jamil2018@gmailcomm
